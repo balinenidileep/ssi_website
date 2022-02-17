@@ -638,6 +638,11 @@ section {
 .services .icon-box:hover .title a, .services .icon-box:hover .description {
   color: #fff;
 }
+
+.services .icon-box:hover .description a{
+  color: black;
+}
+
 .services .icon-box:hover .icon {
   background: #fff;
 }
